@@ -6,11 +6,11 @@
 - 💻 Skills:  Python | SQL | Machine Learning | C | C++ | 
 - 📑 Projects:
 
-   **OctaveAI** (music recommender)
+  **OctaveAI** (music recommender)
 
-    **Advaced RAG Techniques**
+  **Advaced RAG Techniques**
 
-     **Engineering Descision Assisant System: an Agentic AI approach**
+  **Engineering Descision Assisant System: an Agentic AI approach**
   
   P.S. more in the works ;)
 
