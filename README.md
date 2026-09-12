@@ -3,7 +3,7 @@
  I'm Sanidhya, a data science and GenAI enthusiast (professionally) who loves a breath of fresh air ( music🎵, theatre 💃, dramatics 🎭, films🎥, etc.).
 
 - 📚 Currently a BTech in Data Science student at MIT Manipal (Final year)
-- 💻 Skills:  Python | SQL | Machine Learning | C | C++ | 
+- 💻 Skills:  Python | SQL | Machine Learning | LLMs | Agentic AI | RAG | C | C++ | 
 - 📑 Projects:
 
   **OctaveAI** (music recommender)
