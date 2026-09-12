@@ -10,7 +10,7 @@
 
   **Advaced RAG Techniques**
 
-  **Engineering Descision Assisant System: an Agentic AI approach**
+  **Engineering Descision Assisant System: an Agentic AI approach** (under works)
   
   P.S. more in the works ;)
 
