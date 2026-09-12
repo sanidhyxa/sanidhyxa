@@ -5,8 +5,11 @@
 - 📚 Currently a BTech in Data Science student at MIT Manipal (Final year)
 - 💻 Skills:  Python | SQL | Machine Learning | C | C++ | 
 - 📑 Projects: **OctaveAI** (music recommender)
-                **Advaced RAG Techniques**
-                **Engineering Descision Assisant System: an Agentic AI approach**
+
+  **Advaced RAG Techniques**
+
+  **Engineering Descision Assisant System: an Agentic AI approach**
+  
   P.S. more in the works ;)
 
 - 📫 Reach me at: kaminari7249@gmail.com 
